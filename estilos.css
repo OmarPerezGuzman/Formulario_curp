@@ -1,0 +1,119 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: helvetica;
+	font-size: 16px;
+	color: #333;
+	line-height: 24px;
+}
+.ancho{
+	max-width: 1200px;
+	margin: auto;
+}
+.ancho2{
+	max-width: 1100px;
+	margin: auto;
+}
+.contenedor1{
+  background-color: #D6D6D6;
+  text-align: center;
+}
+#imagen{
+  width: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.contenedor2{
+  margin-top: 20px;
+  border-bottom: 2px #333 solid;
+}
+.contenedor3{
+  width: 50px;
+  height: 10px;
+  margin-left: 125px;
+  background-color: #651133;
+}
+.contenedor4 h3{
+  color: #601130;
+}
+.contenedor4 input{
+  width: 350px;
+  height: 40px;
+  border: 1px #D6D6D6 solid;
+  border-radius: 5px;
+}
+.curp{
+  display: inline-block;
+}
+.consultar{
+  width: 180px;
+  height: 40px;
+  text-align: center;
+  padding-top: 5px;
+  background-color: #621332;
+  vertical-align: middle;
+  display: inline-block;
+}
+#imagen2{
+  width: 20px;
+  height: 20px;
+}
+.consultar a{
+  color: white;
+  text-decoration: none;
+}
+.caja2{
+  margin-right: 15px;
+  vertical-align: top;
+  display: inline-block;
+}
+.caja3{
+  margin-right: 15px;
+  vertical-align: top;
+  display: inline-block;
+}
+.caja4{
+  vertical-align: top ;
+  display: inline-block;
+}
+.caja2 input{
+  margin-bottom: 20px;
+}
+.caja3 input{
+  margin-bottom: 20px;
+}
+.caja4 input{
+  margin-bottom: 20px;
+  color: #6e6e6e;
+}
+.caja3 select{
+  width: 350px;
+  height: 40px;
+  border: 1px #D6D6D6 solid;
+  color: #6e6e6e;
+  border-radius: 5px;
+  margin-bottom: 19px;
+}
+#asunto{
+  width: 1100px;
+  height: 250px;
+  border: 1px #D6D6D6 solid;
+}
+#btn_validar{
+  width: 120px;
+  height: 40px;
+  background-color: #0F2620;
+  color: white;
+  border: 0;
+}
+.final{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  text-align: center;
+  background-color: #631233;
+  color: white;
+}
